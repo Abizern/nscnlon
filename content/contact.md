@@ -3,6 +3,7 @@ title: "Contact"
 date: 2018-03-19T13:24:48Z
 ---
 
-# Contact
+I'm Abizer and you can usually contact me about this event:
 
-How to make contact.
+- On [Twitter](https://twitter.com/abizern)
+- By [Email](mailto:abizern@abizern.org)

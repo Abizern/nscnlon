@@ -10,7 +10,7 @@ googleAnalytics         = "UA-5015208-8"             # Tracking code, eg. "UA-11
     favicon             = "/sam.ico"
 #    pygmentsStyle       = "monokai"                     # https://help.farbox.com/pygments.html
 #    pygmentsCodefences  = true
-    homepage            = "main"                        # What to call the home page link
+    homepage            = "Home"                        # What to call the home page link
 #    galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
 #    clickablePhotos     = true                          # Allow links to the full size images
     footerText          = "Call me Sam, a theme for Hugo."
@@ -21,13 +21,17 @@ googleAnalytics         = "UA-5015208-8"             # Tracking code, eg. "UA-11
     primaryImage        = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 [[params.mainMenu]]
-    link = "/what"
-    text = "What"
+    link = "/nscoder-night-london"
+    text = "NSCoder Night London"
 
 [[params.mainMenu]]
-    link = "/when_and_where"
+    link = "/when-and-where"
     text = "When & Where"
-
+    
+[[params.mainMenu]]
+    link = "/faq"
+    text = "FAQ"
+    
 [[params.mainMenu]]
     link = "/contact"
     text = "Contact"
