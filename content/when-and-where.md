@@ -8,7 +8,7 @@ date: "2018-03-19"
 
 Every third Tuesday of the month from 7pm onwards.
 
-The next event is on **Tuesday, 20th March, 2018**
+The next event is on **Tuesday, 17th April, 2018**
 
 ## Where
 
