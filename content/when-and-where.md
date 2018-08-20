@@ -23,7 +23,7 @@ SE1 9LX
 * Tuesday, 18th September, 2018 - 9th Anniversay!
 * Tuesday, 16th October, 2018
 * Tuesday, 20th November, 2018
-* Tuesday2 18th December, 2018
+* Tuesday, 18th December, 2018
 
 
 ## Calendar
