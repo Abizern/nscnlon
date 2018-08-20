@@ -3,17 +3,13 @@ title: "When and Where"
 date: "2018-03-19"
 ---
 
-## Special 
-
-We meet on the third Tuesday of the month in a pub near Waterloo, Waterloo East and Southwark. It' a modern pub that does really nice sourdough pizza.
-
-I have a table reserved Usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
+The next event is on **Tuesday, 21st August, 2018**
 
 ## When
+We meet on the third Tuesday of the month at around 7pm in a pub near Waterloo, Waterloo East and Southwark. It' a modern pub that does really nice sourdough pizza.
 
-Every third Tuesday of the month from 7pm onwards, although people usually get there from about 6:30 pm. Subscribe to the calendar - link at the bottom.
+I have a table reserved from 6:30 usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
 
-The next event is on **Tuesday, 21st August, 2018**
 
 ## Where
 
