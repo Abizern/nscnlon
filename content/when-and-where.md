@@ -5,16 +5,15 @@ date: "2018-03-19"
 
 ## Special 
 
-Although we meet on the third Tuesday of the month, we have a special event on *Wednesday, 23rd May, 2018, at 7pm*.
+We meet on the third Tuesday of the month in a pub near Waterloo, Waterloo East and Southwark. It' a modern pub that does really nice sourdough pizza.
 
-[@ahmed_sulajman ](https://twitter.com/ahmed_sulajman) of [Flawlessapp.io](https://www.flawlessapp.io) is going to be in London and it would be nice to get together anyway just before WWDC. The format is the same; a pub meet, with chat. No presentations. Hope to see you there.
-
+I have a table reserved Usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
 
 ## When
 
-Usually, every third Tuesday of the month from 7pm onwards.
+Every third Tuesday of the month from 7pm onwards, although people usually get there from about 6:30 pm. Subscribe to the calendar - link at the bottom.
 
-The next event is on **Wednesday, 23rd May, 2018**
+The next event is on **Tuesday, 21st August, 2018**
 
 ## Where
 
@@ -24,10 +23,12 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 19th June, 2018
-* Tuesday, 17th July, 2018
 * Tuesday, 21st August, 2018
 * Tuesday, 18th September, 2018 - 9th Anniversay!
+* Tuesday, 16th October, 2018
+* Tuesday, 20th November, 2018
+* Tuesday2 18th December, 2018
+
 
 ## Calendar
 
