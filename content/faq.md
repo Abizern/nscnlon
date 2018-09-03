@@ -6,6 +6,9 @@ date: "2018-03-19"
 #### What is this about?
 This is a chance for people with a common interest to get together. As long as you have an interest in programming for Apple devices then you share a common interest. So come along!
 
+#### Why?
+I went to my first conference, NSConf, in 2009. While the workshops and presentations were great, I got much more out of talking to the other attendees and presenters in between the sessions and during the evenings. I wanted to try and capture that same feeling by just getting a group of developers together and talking about whatever they wanted to.
+
 #### What happens?
 Whatever you feel comfortable with. Sometimes somebody brings out a laptop or device to show off something cool, or to ask for advice about a bug. Or people just talk about things the way that you normally would with friends in a social setting.
 
