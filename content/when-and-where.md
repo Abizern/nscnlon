@@ -23,7 +23,6 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 21st August, 2018
 * Tuesday, 18th September, 2018 - 9th Anniversay!
 * Tuesday, 16th October, 2018
 * Tuesday, 20th November, 2018
