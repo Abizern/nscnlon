@@ -3,10 +3,10 @@ title: "When and Where"
 date: "2018-03-19"
 ---
 
-The next event is on **Tuesday, 20th November, 2018**
+Because of the Christmas holidays The next event is on **Tuesday,11th November, 2018**. The _second_ tuesday, rather than the thid.
 
 ## When
-We meet on the third Tuesday of the month at around 7pm in a pub near Waterloo, Waterloo East and Southwark. It' a modern pub that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
+We usually meet on the third Tuesday of the month at around 6.30pm in a pub near Waterloo, Waterloo East and Southwark. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
 
 I have a table reserved from 6:30 usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
 
@@ -19,10 +19,11 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 18th December, 2018
 * Tuesday, 15th January, 2019
 * Tuesday, 19th February, 2019
 * Tuesday, 19th March, 2019
+* Tuesday, 16th April, 2019
+* Tuesday, 21st May, 2019
 
 
 ## Calendar
