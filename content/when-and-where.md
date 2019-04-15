@@ -19,8 +19,9 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 16th April, 2019
 * Tuesday, 21st May, 2019
+* Tuesday, 18th June, 2019
+* Tuesday, 16th July, 2019
 
 
 ## Calendar
