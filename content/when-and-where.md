@@ -6,7 +6,7 @@ date: "2018-03-19"
 The next event is on **Tuesday, 16th April, 2019**. The Running Code not Marathons event.
 
 ## When
-We usually meet on the third Tuesday of the month at around 6.45pm in a pub near Waterloo, Waterloo East and Southwark. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
+We usually meet on the third Tuesday of the month at around 6.45pm in a the Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
 
 I have a table reserved from 6:45 usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
 
