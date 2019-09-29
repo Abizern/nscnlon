@@ -24,3 +24,5 @@ Look for the group of people that has a higher than average count of Apple devic
 #### I'm just learning programming, is this too advanced for me?
 No. A lot of people are just chatting, but if you have a question to ask; you'll find people generally willing to explain things to you. Sometimes in more detail than you want; but that's not always a bad thing.
 
+#### Why isn't anybody programming?
+

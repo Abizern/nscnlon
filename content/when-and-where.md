@@ -3,7 +3,7 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-The next event is on **Tuesday, 18th June, 2019**. The _welcome back from WWDC_ event.
+The next event is on **Tuesday, 15th October, 2019**.
 
 ## When
 We usually meet on the third Tuesday of the month at around 6.45pm in a the Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
@@ -19,9 +19,7 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 16th July, 2019
-* Tuesday, 20th August, 2019
-* Tuesday, 17th September, 2019
+* Tuesday, 19th November, 2019
 
 
 ## Calendar
