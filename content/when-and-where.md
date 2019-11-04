@@ -19,7 +19,7 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 10th November, 2019
+* Tuesday, 10th December, 2019 - Earlier than usual to account for the holidays
 * Tuesday, 21st January, 2020
 * Tuesday, 18th February, 2020
 * Tuesday, 17th March, 2020
