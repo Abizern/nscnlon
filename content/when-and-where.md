@@ -3,7 +3,9 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-The next event is on **Tuesday, 19th November, 2019**.
+The next event is on **Tuesday, 10th December, 2019**.
+
+Yes, you are reading that right. It's the second Tuesday, not the third. We usually bring it forward for December.
 
 ## When
 We usually meet on the third Tuesday of the month at around 6.45pm in a the Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
@@ -19,7 +21,6 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 10th December, 2019 - Earlier than usual to account for the holidays
 * Tuesday, 21st January, 2020
 * Tuesday, 18th February, 2020
 * Tuesday, 17th March, 2020
