@@ -7,17 +7,19 @@ The next event is on **Thursday, 19th December, 2019**.
 
 This is a special event to welcome Daniel Kennett [@iKenndac](https://twitter.com/iKenndac) who is visiting from Stockholm. Presumably for the warmer weather.
 
+Please Note: The location is a different pub for this event.
+
 ## When
 We usually meet on the third Tuesday of the month at around 6.45pm in a the Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
 
 I have a table reserved from 6:30 usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
 
-
 ## Where
 
-[The Fountain & Ink](http://www.fountainandink.co.uk)</br>
-52-54 Stamford Street</br>
-SE1 9LX
+The Kings Arms
+25 Roupell Street</br>
+London</br>
+SE1 8TB
 
 ## Upcoming Dates:
 
