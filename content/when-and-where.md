@@ -3,11 +3,10 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-The next event is on **Thursday, 19th December, 2019**.
+The next event is on **Tuesday, 18th February, 2020**.
 
-This is a special event to welcome Daniel Kennett [@iKenndac](https://twitter.com/iKenndac) who is visiting from Stockholm. Presumably for the warmer weather.
+Wrap your code up in ribbons and bring it along!
 
-Please Note: The location is a different pub for this event.
 
 ## When
 We usually meet on the third Tuesday of the month at around 6.45pm in a the Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
@@ -15,16 +14,13 @@ We usually meet on the third Tuesday of the month at around 6.45pm in a the Foun
 I have a table reserved from 6:30 usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation.
 
 ## Where
-
-[The Kings Arms](https://www.thekingsarmslondon.co.uk)
-25 Roupell Street</br>
-London</br>
-SE1 8TB
+[The Fountain and Ink](https://fountainandink.co.uk)
+52 - 54 Stamford Street
+London
+SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 21st January, 2020
-* Tuesday, 18th February, 2020
 * Tuesday, 17th March, 2020
 * Tuesday, 21st April, 2020
 * Tuesday, 19th May, 2020
