@@ -3,9 +3,7 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-The next event is on **Tuesday, 18th February, 2020**.
-
-Wrap your code up in ribbons and bring it along!
+The next event is on **Tuesday, 17th March, 2020**. The St Patrick's day special.
 
 
 ## When
@@ -21,7 +19,6 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 17th March, 2020
 * Tuesday, 21st April, 2020
 * Tuesday, 19th May, 2020
 * Tuesday, 16th June, 2020
