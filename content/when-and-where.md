@@ -3,7 +3,11 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-The next event is on **Tuesday, 17th March, 2020**. The St Patrick's day special.
+## March event is cancelled
+
+More of a precaution than anything else. 
+
+The next event is on *Tuesday, 21st April, 2020*.
 
 
 ## When
@@ -19,7 +23,6 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 21st April, 2020
 * Tuesday, 19th May, 2020
 * Tuesday, 16th June, 2020
 
