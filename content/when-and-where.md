@@ -3,11 +3,17 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## March event is cancelled
-
-More of a precaution than anything else. 
+## April will be a virtual event
 
 The next event is on *Tuesday, 21st April, 2020*.
+
+We don't know whether the guidelines will be changed for social distancing in a month, but we can plan for that from now.
+
+The most we've ever had at an NSCoder Night in London has been around 22-24 people. Group FaceTime can handle 32. So, if we can't, or shouldn't meet in person I'm planning on the April event being virtual.
+
+Closer to the time I'll collect iMessage addresses for those of you that want to attend and on the day I'll set up a group FaceTime and invite any of you who want to participate.
+
+I don't think this will be a regular format. I enjoy meeting you in person and we'll have to supply our own food and beverages. But something is better than nothing.
 
 
 ## When
