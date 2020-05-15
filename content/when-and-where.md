@@ -7,9 +7,9 @@ date: "2019-05-22"
 
 The next event is on *Tuesday, 19th May, 2020*.
 
-It's probably best to continue with social distancing for the May event.
+We're going to continue with the socially distanced format for May.
 
-The April event when surprisingly well over Group FaceTime. Connection and video was stable, it was easy to have conversation.
+The April event went surprisingly well over Group FaceTime. The Connection and video was stable, it was easy to have conversations.
 
 Closer to the time I'll collect iMessage addresses for those of you that want to attend and on the day I'll set up a group FaceTime and invite any of you who want to participate.
 
@@ -18,6 +18,9 @@ I don't think this will be a regular format. I enjoy meeting you in person and w
 
 ## When 
 We usually meet on the third Tuesday of the month at around 6.45pm.
+
+## Where (During Lockdown)
+Group FaceTime.
 
 ## Where (Post Lockdown)
  The Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
