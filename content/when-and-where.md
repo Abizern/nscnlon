@@ -3,13 +3,11 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## May will be a virtual event
+## June pre-WWDC virtual event
 
-The next event is on *Tuesday, 19th May, 2020*.
+The next event is on *Tuesday, 16th June, 2020*.
 
-We're going to continue with the socially distanced format for May.
-
-The April event went surprisingly well over Group FaceTime. The Connection and video was stable, it was easy to have conversations.
+Since WWDC will be virtual, NSCoder Night London will be virtual soon.
 
 Closer to the time I'll collect iMessage addresses for those of you that want to attend and on the day I'll set up a group FaceTime and invite any of you who want to participate.
 
@@ -34,7 +32,11 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 16th June, 2020
+* Tuesday, 21st July, 2020
+* Tuesday, 18th August, 2020
+* Tuesday, 15th September, 2020
+* Tuesday, 20th October, 2020
+* Tuesday2 19th November, 2020
 
 
 ## Calendar
