@@ -5,7 +5,7 @@ date: "2019-05-22"
 
 ## August Staycation Event
 
-The next event is on *Tuesday, 18th Augusty, 2020*.
+The next event is on *Tuesday, 18th August, 2020*.
 
 Stay at home and have an NSCoder Night.
 
