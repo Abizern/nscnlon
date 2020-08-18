@@ -3,11 +3,11 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## June post WWDC virtual event
+## August Staycation Event
 
-The next event is on *Tuesday, 21st July, 2020*.
+The next event is on *Tuesday, 18th Augusty, 2020*.
 
-What did you learn at WWDC? What do you think of iOS 14 and Mac OS 11? Let's get together and talk about it, or anything else.
+Stay at home and have an NSCoder Night.
 
 We continue to have virtual NSCoder Nights over Group FaceTime.
 
@@ -34,7 +34,6 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 18th August, 2020
 * Tuesday, 15th September, 2020
 * Tuesday, 20th October, 2020
 * Tuesday2 19th November, 2020
