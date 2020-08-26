@@ -3,9 +3,9 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## August Staycation Event
+## September - Winter is Coming!
 
-The next event is on *Tuesday, 15th September, 2020*. Winter is Coming!
+The next event is on *Tuesday, 15th September, 2020*.
 
 Stay at home and have an NSCoder Night.
 
