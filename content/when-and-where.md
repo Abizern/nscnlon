@@ -5,7 +5,7 @@ date: "2019-05-22"
 
 ## August Staycation Event
 
-The next event is on *Tuesday, 18th August, 2020*.
+The next event is on *Tuesday, 15th September, 2020*. Winter is Coming!
 
 Stay at home and have an NSCoder Night.
 
@@ -34,10 +34,9 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 15th September, 2020
 * Tuesday, 20th October, 2020
 * Tuesday2 19th November, 2020
-
+* December date to be decided
 
 ## Calendar
 
