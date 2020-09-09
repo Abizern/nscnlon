@@ -3,9 +3,11 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## September - Winter is Coming!
+## September - Winter and New Hardware are Coming!
 
 The next event is on *Tuesday, 15th September, 2020*.
+
+Because this overlaps with the Apple Event happening at around the same time, we may start a little later.
 
 Stay at home and have an NSCoder Night.
 
