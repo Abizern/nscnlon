@@ -3,11 +3,10 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## September - Winter and New Hardware are Coming!
+## October - The Spooky Times Event
 
-The next event is on *Tuesday, 15th September, 2020*.
+The next event is on *Tuesday, 20th October, 2020*.
 
-Because this overlaps with the Apple Event happening at around the same time, we may start a little later.
 
 Stay at home and have an NSCoder Night.
 
@@ -36,7 +35,6 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 20th October, 2020
 * Tuesday2 19th November, 2020
 * December date to be decided
 
