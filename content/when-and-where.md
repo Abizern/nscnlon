@@ -3,10 +3,9 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## October - The Spooky Times Event
+## November - The "Winter in Coming" event
 
-The next event is on *Tuesday, 20th October, 2020*.
-
+The next event is on *Tuesday 19th November, 2020*.
 
 Stay at home and have an NSCoder Night.
 
@@ -24,7 +23,9 @@ We usually meet on the third Tuesday of the month at around 6.45pm.
 Group FaceTime.
 
 ## Where (Post Lockdown)
- The Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
+_This is here to remind us of how we used to do things before COVID, and what we will get back to afterwards._
+
+The Fountain & Ink pub conveniently located close to Waterloo, Waterloo East and Southwark stations. It' a modern place that does really nice sourdough pizza. Other items are available. There is also a good selection of beers.
  
 I have a table reserved from 6:30 usually at the back right, by the windows. Just look for the menu on the table that has my name, Abizer, written on it that marks the reservation. 
  
@@ -35,8 +36,10 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday2 19th November, 2020
-* December date to be decided
+* Tuesday, 15th December 2020
+* Tuesday, 12th January 2020
+* Tuesday, 16th February 2020
+* Tuesday, 16th March 2020
 
 ## Calendar
 
