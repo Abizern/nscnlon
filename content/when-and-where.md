@@ -3,9 +3,9 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## November - The "Winter in Coming" event
+## November - The "Shrove Tuesday" event
 
-The next event is on *Tuesday 19th November, 2020*.
+The next event is on *Tuesday 16th February, 2021*.
 
 Stay at home and have an NSCoder Night.
 
@@ -36,10 +36,11 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 15th December 2020
-* Tuesday, 12th January 2020
-* Tuesday, 16th February 2020
-* Tuesday, 16th March 2020
+* Tuesday, 16th March 2021
+* Tuesday, 20th April 2021
+* Tuesday, 18th May 2021
+* Tuesday, 15th June 2021
+* Tuesday, 20th July 2021
 
 ## Calendar
 
