@@ -3,9 +3,11 @@ title: "When and Where"
 date: "2019-05-22"
 ---
 
-## November - The "Shrove Tuesday" event
+## November - The post WWDC event you've been async/await-ing for!
 
-The next event is on *Tuesday 16th February, 2021*.
+The next event is on *Tuesday 15th June, 2021*.
+
+A cosy chat about all the things we'll be able to use in a couple of years' time.
 
 Stay at home and have an NSCoder Night.
 
@@ -20,7 +22,7 @@ I don't think this will be a regular format. I enjoy meeting you in person and w
 We usually meet on the third Tuesday of the month at around 6.45pm.
 
 ## Where (During Lockdown)
-Group FaceTime.
+Group FaceTime. Ping me a message and I'll add you to the group.
 
 ## Where (Post Lockdown)
 _This is here to remind us of how we used to do things before COVID, and what we will get back to afterwards._
@@ -36,11 +38,10 @@ SE1 9LX
 
 ## Upcoming Dates:
 
-* Tuesday, 16th March 2021
-* Tuesday, 20th April 2021
-* Tuesday, 18th May 2021
-* Tuesday, 15th June 2021
 * Tuesday, 20th July 2021
+* Tuesday, 17th August 2021
+* Tuesday, 21st September 2021
+* Tuesday, 19th October 2021
 
 ## Calendar
 
