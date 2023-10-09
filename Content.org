@@ -1,0 +1,72 @@
+#+HUGO_BASE_DIR: ./
+#+options: author:nil
+
+* When and Where
+:PROPERTIES:
+:EXPORT_FILE_NAME: when-and-where
+:EXPORT_HUGO_SECTION: /
+:END:
+
+** When
+We usually meet on the third Tuesday of the month from around 6:45pm.
+
+** Where
+Since the Pandemic we've been meeting over Group Facetime. We have met a couple of times since at a pub near Waterloo, but we'll stick to remote meetings until I can find a more convenient place to meet.
+
+If you contact me, I'll add you to the Facetime group.
+
+** Calendar
+You can @@html:[subscribe to the iCal Calendar](webcal://p03-calendarws.icloud.com/ca/subscribe/1/eVtuCzY9Zg46tw0CtC3Sj7762GdUkJ3vEBDX5fHPmowFYc6Xg7RLgml2Bo-Ti9s4FjGi40O_ycWyEQdiD28NkKu5gKE4zBKK4VADmSeS5OI)@@.
+
+* FAQ
+:PROPERTIES:
+:EXPORT_FILE_NAME: faq
+:EXPORT_HUGO_SECTION: /
+:END:
+
+** What is this about?
+This is a chance for people with a common interest to get together. As long as you have an interest in programming for Apple devices then you share a common interest. So come along!
+
+** Why?
+I went to my first conference, NSConf, in 2009. While the workshops and presentations were great, I got much more out of talking to the other attendees and presenters in between the sessions and during the evenings. I wanted to try and capture that same feeling by just getting a group of developers together and talking about whatever they wanted to.
+
+** What happens?
+Whatever you feel comfortable with. Sometimes somebody brings out a laptop or device to show off something cool, or to ask for advice about a bug. Or people just talk about things the way that you normally would with friends in a social setting.
+
+** Who Turns up?
+All sorts. Independent software developers, Contractors, full- and part-time Cocoa(-Touch) developers, students. People writing Java in their day jobs, but are interested in writing software for Apple devices.
+
+** I'm not from London. Can I still turn up?
+We have had regulars coming from Poole, Reading and Brighton. We've had drop-ins from the States and Sweden and Ukraine. If you can make it to London, or you are in London on the day feel free to just show up.
+
+** How will I find you?
+Look for the group of people that has a higher than average count of Apple devices. Or, ask for my telephone number and give me a call when you get there. This is not a big pub so if you can’t see us you’re either early or in the wrong place. Or ping me on Twitter (@abizern). There is a contact page in this site
+
+** I'm just learning programming, is this too advanced for me?
+No. A lot of people are just chatting, but if you have a question to ask; you'll find people generally willing to explain things to you. Sometimes in more detail than you want; but that's not always a bad thing.
+
+** Why isn't anybody programming?
+Sometimes people have had a long day (week/month/year...) and don't feel like working, preferring to talk instead. Don't let that stop you. If you want to program, go ahead. If you want to work on your side project or ask questions you won't get funny looks. More likely you'll get people interested in what you're doing.
+
+
+
+
+* NSCoder Night London
+:PROPERTIES:
+:EXPORT_FILE_NAME: nscoder-night-london
+:EXPORT_HUGO_SECTION: /
+:END:
+
+A monthly get together for iOS, macOS, tvOS, watchOS developers in London. We cater for Swift and Objective-C developers. There is no judgment here.
+
+We usually meet on the third Tuesday of the month, and have been doing so since September 2009.
+
+* Contact
+:PROPERTIES:
+:EXPORT_FILE_NAME: contact
+:EXPORT_HUGO_SECTION: /
+:END:
+
+I'm Abizer, and you can contact me by email at [[mailto:abizern@mac.com][abizern@mac.com]].
+
+For the remote meetings, If you let me have your facetime compatible content, I'll add you to the group.

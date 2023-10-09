@@ -1,8 +1,7 @@
 baseurl                 = "http://nscodernightlondon.com/"               # Your domain name. Must end with "/"
-languageCode            = "en-uk"
+languageCode            = "en-gb"
 title                   = "NSCoder Night London"
 theme                   = "sam"
-googleAnalytics         = "UA-5015208-8"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
     dateform            = "Mon Jan 02, 2006"

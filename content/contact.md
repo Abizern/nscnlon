@@ -1,9 +1,8 @@
----
-title: "Contact"
-date: 2018-03-19T13:24:48Z
----
++++
+title = "Contact"
+draft = false
++++
 
-I'm Abizer and you can usually contact me about this event:
+I'm Abizer, and you can contact me by email at [abizern@mac.com](mailto:abizern@mac.com).
 
-- On [Twitter](https://twitter.com/abizern)
-- By [Email](mailto:abizern@abizern.org)
+For the remote meetings, If you let me have your facetime compatible content, I'll add you to the group.

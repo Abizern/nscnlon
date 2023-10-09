@@ -7,6 +7,7 @@ Files for generating the static site for NSCoder Night London.
 
 ## Procedure
 
-- Update content - (in the content folder).
-- Generate the site `hugo`.
+- Update content - This is from ox-hugo, so update the Content.org file
+- Generate the markdown files with `C-c C-e H A`
+- Generate the site `hugo --minify`.
 - FTP the files to the web-server.
